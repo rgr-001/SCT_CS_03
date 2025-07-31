@@ -48,26 +48,4 @@ SCT_CS_03/
 
 ---
 
-## 📢 LinkedIn Post Template
-
-```
-🔐 Task 3 Completed: Password Strength Checker @SkillCraft Technology
-
-✅ Built a Python tool that:
-- Analyzes password security based on key criteria
-- Provides real-time feedback and strength rating
-- Offers improvement suggestions
-
-🧠 Key Learnings:
-- Password validation using regex
-- Cybersecurity hygiene principles
-- Writing user-friendly CLI tools
-
-🔗 GitHub: https://github.com/rgr-001/SCT_CS_03
-
-#SkillCraftTechnology #CyberSecurity #Python #PasswordSecurity #Task3Complete
-```
-
----
-
 **Made with 💡 by RGR | SkillCraft Cyber Intern**
