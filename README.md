@@ -27,7 +27,7 @@ This Python-based tool evaluates the strength of user-entered passwords based on
 
 ```
 SCT_CS_03/
-├── main.py              # Password strength checker logic
+├── main3.py              # Password strength checker logic
 └── password-analysis.md # Password strength analysis
 ```
 
